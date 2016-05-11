@@ -1,7 +1,7 @@
 ---
 title: 安装mysql数据库
 date: 2016-04-25 17:29:57
-categories: express+mysql
+categories: express
 ---
 ## 安装数据库
 1.{% link download http://dev.mysql.com/downloads/mysql/5.6.html %} zip文件,解压到D:\dev,重命名为mysql

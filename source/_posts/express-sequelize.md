@@ -12,6 +12,7 @@ categories: express
 $  npm install express-generator -g
 $  express -f --hbs
 #这里生成了一个以handlebars为视图的空express项目
+$ npm install
 ```
 
 2.在目录上创建相应文件夹
@@ -25,8 +26,8 @@ $ mkdir models
 
 3.安装sequelize&&mysql
 ```bash
-$ install i --save sequelize
-$ install i --save mysql
+$ npm install i --save sequelize
+$ npm install i --save mysql
 ```
 
 4.编辑db.js
