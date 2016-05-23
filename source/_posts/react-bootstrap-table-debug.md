@@ -1,7 +1,10 @@
 ---
 title: react-bootstrap-table server data
 date: 2016-05-17 11:18:00
-categories: debug
+categories:
+- debug
+tags:
+- react
 ---
 
 ## react-bootstrap-table 插件缺少server data功能

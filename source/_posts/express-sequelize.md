@@ -1,7 +1,11 @@
 ---
 title: 利用sequelize操作数据库
 date: 2016-04-28 10:18:43
-categories: express
+categories:
+- express
+tags:
+- express
+- orm
 ---
 ## express配合sequelize操作数据库
 ---解放直接操作数据库，从orm做起？？？

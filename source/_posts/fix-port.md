@@ -1,7 +1,10 @@
 ---
 title: 启动hexo遇到端口占用问题
 date: 2016-04-25 11:20:19
-categories: debug
+categories:
+- debug
+tags:
+- hexo
 ---
 ## 启动hexo,尝试打开localhost:4000,浏览器无响应
 ``` bash

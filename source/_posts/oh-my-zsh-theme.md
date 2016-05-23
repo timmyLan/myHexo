@@ -1,7 +1,10 @@
 ---
 title: oh-my-zsh-theme
 date: 2016-05-11 13:11:46
-categories: config
+categories:
+- config
+tags:
+- oh-my-zsh
 ---
 
 ## oh-my-zsh 主题配置

@@ -1,7 +1,11 @@
 ---
 title: multer实现文件上传
 date: 2016-04-27 16:10:02
-categories: express
+categories:
+- express
+tags:
+- express
+- multer
 ---
 ## express利用multer中间件进行文件上传
 因为小项目要用到上传文件功能,所以上网找到{% link multer https://github.com/expressjs/multer %}中间件实现该功能

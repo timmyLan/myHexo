@@ -1,7 +1,11 @@
 ---
 title: express+mysql+handlebar
 date: 2016-04-25 16:36:06
-categories: express
+categories:
+- express
+tags:
+- express
+- mysql
 ---
 ## 搭建express+mysql项目(一)
 因为前段时间需要着手一个小工具开发,所以接触了{% link express http://expressjs.com/%}

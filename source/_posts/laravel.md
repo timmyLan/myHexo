@@ -1,7 +1,10 @@
 ---
 title: laravel
 date: 2016-05-23 00:08:43
-categories: install
+categories:
+- install
+tags:
+- laravel
 ---
 ## 配置laravel环境
 windows下模拟linux环境配置{%link laravel https://laravel.com/%}

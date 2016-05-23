@@ -9,7 +9,7 @@ description:
 author: llan
 language: zh-Hans
 timezone:
-avatar: /uploads/avatar.jpeg
+avatar: http://img4.duitang.com/uploads/item/201601/13/20160113170405_UyFCv.thumb.700_0.jpeg
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: yelee
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

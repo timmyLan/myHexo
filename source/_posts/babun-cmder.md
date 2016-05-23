@@ -1,7 +1,11 @@
 ---
 title: babun与cmder
 date: 2016-05-11 12:43:40
-categories: install
+categories:
+- install
+tags:
+- babun
+- cmder
 ---
 ## babun配合cmder打造windows下的linux
 

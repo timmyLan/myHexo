@@ -1,7 +1,10 @@
 ---
 title: mintty-config
 date: 2016-05-11 12:59:41
-categories: config
+categories:
+- config
+tags:
+- mintty
 ---
 ## mintty颜色配置
 PS: mintty 为babun的shell,默认颜色配置太丑?(其实比起windows内置cmd已经很好了~小黑一把)所以google改颜色~
