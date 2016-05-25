@@ -2,7 +2,9 @@
 title: redux-example
 date: 2016-05-25 15:57:15
 categories:
--
+- debug
+tags:
+- react
 ---
 ## redux-example
 
