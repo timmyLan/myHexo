@@ -8,7 +8,7 @@ tags:
 - react-route
 ---
 
-# react-route使用
+## react-route使用
 
 redux 单一数据源原则对于多页面应用有点找不着北的感觉，所以配合react-route使用可以完美解决该问题。
 
